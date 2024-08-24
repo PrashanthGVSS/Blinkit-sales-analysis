@@ -1,6 +1,6 @@
 # Blinkit Sales Analysis
+Implemented advanced Power BI and analytics techniques to create a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The analysis includes key performance indicators (KPIs) such as Total Sales, Average Sales, Number of Items Sold, and Average Customer Rating. Leveraged data visualization and reporting to deliver actionable insights that enhance business decision-making.
 
-This project contains a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using Power BI. The analysis includes various KPIs like Total Sales, Average Sales, Number of Items Sold, and Average Rating.
 
 # KPIs and Visualizations
 
